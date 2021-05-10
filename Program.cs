@@ -1,9 +1,14 @@
 ﻿using System;
+using FluentAssertions;
 
 namespace application_structure_checkpoint
 {
   class Program
   {
+    static void Main(string[] args)
+    {
+      // Do nothing
+    }
     public void additionMethod()
     {
       var first = 3;
@@ -11,10 +16,6 @@ namespace application_structure_checkpoint
       var result = first + second;
 
       result.Should().Be(10);
-    }
-    static void Main(string[] args)
-    {
-      Console.WriteLine("Hello World!");
     }
   }
 }
