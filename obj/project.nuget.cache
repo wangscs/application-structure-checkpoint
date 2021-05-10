@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PrEtZD9ZNqN5JF1jB+qd5jdA+TxFI2hV7JD+7huaOLXBo/ByFP5uX/oidnWgHO5vc5DuDAa3Nt5QW3taH7kg6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\application-structure-checkpoint\\application-structure-checkpoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\StevenMSI\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\StevenMSI\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\StevenMSI\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
